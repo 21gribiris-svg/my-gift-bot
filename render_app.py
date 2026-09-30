@@ -8,7 +8,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 BOT_TOKEN = "8603010595:AAF3Ct7EgGLMS4sJOQsZdsgPEA2zg9Mk13Y"
 CHANNEL_ID = -1004296873580
 CHANNEL_USERNAME = "probye_bot"
-GIFT_LINK = "https://t.me/probye_bot"
+GIFT_LINK = "https://disk.yandex.ru/i/WvA_ACC0cti7_w"
 # ========================================
 
 # --- Простой веб-сервер для Render (без Flask) ---
